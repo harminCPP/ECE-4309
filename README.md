@@ -1,0 +1,1 @@
+These is our project for ECE 4309 with Dr. Formicola. It includes our presentation, the demonstration video, the source code we implemented to capture the packets being transmitted through the I2C serial bus and the pcap file we recorded through wireshark.
